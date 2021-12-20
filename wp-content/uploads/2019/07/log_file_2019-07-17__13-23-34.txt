@@ -1,0 +1,82 @@
+
+---Downloaded files---
+The import files for: Demo content were successfully downloaded!
+Initial max execution time = 60
+Files info:
+Site URL = http://thecryptomoneyrs.com.br
+Data file = /home/u538445002/domains/thecryptomoneyrs.com.br/public_html/wp-content/themes/astrid/inc/demo-content/demo-content.xml
+Widget file = /home/u538445002/domains/thecryptomoneyrs.com.br/public_html/wp-content/themes/astrid/inc/demo-content/demo-widgets.wie
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---pt-ocdi/before_content_import---
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+
+
+---Importing widgets---
+woo : Sidebar does not exist in theme (moving widget to Inactive)
+
+woocommerce_products - Products - Site does not support widget
+woocommerce_top_rated_products - Top Rated Products - Site does not support widget
+woocommerce_product_categories - Product Categories - Site does not support widget
+
+Sidebar : 
+
+Astrid: Recent Posts - Recent posts - Imported
+Astrid: Social Profile - No Title - Imported
+Astrid: Video - Video - Imported
+Arquivos - No Title - Widget already exists
+Categorias - No Title - Widget already exists
+
+Page - Homepage : 
+
+Astrid FP: Services - SERVICES - Imported
+Texto - ABOUT US - Imported
+Astrid FP: Skills - No Title - Imported
+Astrid FP: Facts - FACTS - Imported
+Astrid FP: Employees - TEAM - Imported
+Texto - WORKFLOW - Imported
+Texto - No Title - Imported
+Texto - No Title - Imported
+Texto - No Title - Imported
+Texto - PROJECTS - Imported
+Astrid FP: Projects - No Title - Imported
+Astrid FP: Testimonials - Testimonials - Imported
+Astrid FP: Clients - CLIENTS - Imported
+
+Footer 1 : 
+
+Menu - Company - Imported
+
+Footer 2 : 
+
+Menu - Services - Imported
+
+Footer 3 : 
+
+Texto - About us - Imported
+
+widget-area-home2 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Texto - TEXT - Imported to Inactive
+Astrid FP: Projects - No Title - Imported to Inactive
+Texto - TEXT - Imported to Inactive
+
+widget-area-test : Sidebar does not exist in theme (moving widget to Inactive)
+
+Texto - No Title - Imported to Inactive
+Texto - No Title - Imported to Inactive
+Texto - No Title - Imported to Inactive
+
+
+
+---pt-ocdi/after_import---
+
